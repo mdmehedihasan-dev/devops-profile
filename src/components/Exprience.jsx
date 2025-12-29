@@ -13,7 +13,7 @@ export default function Experience() {
               Full Stack Developer (MERN / Next.js)
             </h3>
             <p className="text-gray-600">
-              Spark Tech Company | Dhaka, Bangladesh | 2024 – Present
+              Spark Tech Company | Dhaka, Bangladesh | 2026 – Present
             </p>
 
             <ul className="mt-4 list-disc list-inside text-gray-700 space-y-1">

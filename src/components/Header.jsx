@@ -18,7 +18,7 @@ export default function Header() {
             GitHub
           </a>
           <a
-            href="https://www.linkedin.com/in/nure/"
+            href="https://www.linkedin.com/in/mdmehedihasanmr"
             target="_blank"
             className="text-xl hover:text-[#ff6900]"
           >
