@@ -3,7 +3,7 @@ export default function Header() {
     <header className="h-96 bg-gradient-to-r from-[#0693e3] via-[#00d084] to-[#ff6900] text-white">
       <div className="container mx-auto px-6 py-24 text-center">
         <h1 className="text-5xl font-bold">
-          Nure Alam Siddiq | Awesome CI/CD (Updated)
+          Md Mehedi Hasan | Awesome CI/CD (Updated)
         </h1>
         <p className="text-2xl mt-4">
           DevOps Engineer | Cloud Architect | Automation Enthusiast
@@ -11,7 +11,7 @@ export default function Header() {
 
         <div className="flex items-center justify-center gap-4 mt-4">
           <a
-            href="https://github.com/Nure"
+            href="https://github.com/mdmehedihasan-dev"
             target="_blank"
             className="text-xl hover:text-[#ff6900]"
           >
