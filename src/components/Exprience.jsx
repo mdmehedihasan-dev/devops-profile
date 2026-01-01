@@ -7,7 +7,7 @@ export default function Experience() {
         </h2>
 
         <div className="space-y-6">
-          {/* Spark Tech */}
+          {/*================= Spark Tech =================*/}
           <div className="bg-white p-6 shadow-md rounded">
             <h3 className="text-xl font-semibold text-[#0693e3]">
               Full Stack Developer (MERN / Next.js)
@@ -44,7 +44,7 @@ export default function Experience() {
             </ul>
           </div>
 
-          {/* Freelance / Project Experience */}
+          {/* =================Freelance / Project Experience================= */}
           <div className="bg-white p-6 shadow-md rounded">
             <h3 className="text-xl font-semibold text-[#00d084]">
               Freelance Full Stack Developer
@@ -67,10 +67,7 @@ export default function Experience() {
                 Deployed and maintained production servers with basic DevOps
                 practices (Docker, NGINX, cloud hosting).
               </li>
-              <li>
-                Ensured application performance, security, and SEO best
-                practices.
-              </li>
+  
             </ul>
           </div>
         </div>
