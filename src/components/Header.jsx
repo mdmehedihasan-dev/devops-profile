@@ -3,7 +3,7 @@ export default function Header() {
     <header className="h-96 bg-gradient-to-r from-[#0693e3] via-[#00d084] to-[#ff6900] text-white">
       <div className="container mx-auto px-6 py-24 text-center">
         <h1 className="text-5xl font-bold">
-          Md Mehedi Hasan | Awesome CI/CD (Updated)
+          Md Mehedi Hasan | Awesome CI/CD 
         </h1>
         <p className="text-2xl mt-4">
           DevOps Engineer | Cloud Architect | Automation Enthusiast
