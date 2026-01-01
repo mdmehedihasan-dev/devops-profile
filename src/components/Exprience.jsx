@@ -6,7 +6,7 @@ export default function Experience() {
           Experience
         </h2>
         <div className="space-y-6">
-          {/* Spark Tech */}
+          {/*======================== Spark Tech ========================*/}
           <div className="bg-white p-6 shadow-md rounded">
             <h3 className="text-xl font-semibold text-[#0693e3]">
               Full Stack Developer (MERN / Next.js)
@@ -48,7 +48,7 @@ export default function Experience() {
             <h3 className="text-xl font-semibold text-[#00d084]">
               Freelance Full Stack Developer
             </h3>
-            <p className="text-gray-600">Remote | 2023 – Present</p>
+            <p className="text-gray-600">Remote | 2024 – Present</p>
 
             <ul className="mt-4 list-disc list-inside text-gray-700 space-y-1">
               <li>
